@@ -1,0 +1,3 @@
+[submodule "lambd-haskell"]
+	path = lambd-haskell
+	url = https://github.com/forember/lambd.git
