@@ -1,4 +1,5 @@
-from simplexchunks import gen_chunk
+#!/usr/bin/env python3
+from simplexchunks_py3 import gen_chunk
 from random import random
 maxint = 2**31 - 1
 
